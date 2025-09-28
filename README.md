@@ -1,6 +1,5 @@
 # Terminal Tic-Tac-Toe Game (PvP & AI)
 
-#### Video Demo:  <https://youtu.be/-vQ0B97v_B0>
 ## Description:
 This is a terminal-based implementation of Tic-Tac-Toe that has two modes: human vs. human and human vs. computer. The AI comes with four modes: **Randobot**, **Winobot**, **Defendobot**, and **Ultrabot**, mapped to difficulty levels 1 through 4. My main goal for this Project was consolidating my learned skills in python and also learning more about algorithmic logic (by implementing the minimax for the perfect play AI).
 
