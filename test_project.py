@@ -1,4 +1,3 @@
-import pytest
 from project import make_move, move_isvalid, check_won, get_ai_move, check_tie
 
 def test_make_move():
